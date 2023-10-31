@@ -11,8 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=baxproductions&show_icons=true&locale=en&layout=compact" alt="baxproductions" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxproductions&show_icons=true&locale=en" alt="baxproductions" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=baxproductions&show_icons=true&locale=en" alt="baxproductions" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=baxproductions&" alt="baxproductions" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baxproductions&" alt="baxproductions" /></p>
