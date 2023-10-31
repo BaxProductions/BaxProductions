@@ -1,4 +1,5 @@
-### Hi there 👋
+# Bax' Productions
+**`Bax' Productions is a small development group making FiveM resources, mostly with the focus on performance and stability.`**
 
 <!--
 **BaxProductions/BaxProductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
