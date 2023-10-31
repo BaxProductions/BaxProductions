@@ -10,10 +10,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxproductions&show_icons=true&locale=en&layout=compact" alt="baxproductions" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=baxproductions&show_icons=true&locale=en&layout=compact" alt="baxproductions" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxproductions&show_icons=true&locale=en" alt="baxproductions" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=baxproductions&show_icons=true&locale=en" alt="baxproductions" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baxproductions&" alt="baxproductions" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=baxproductions&" alt="baxproductions" /></p>
